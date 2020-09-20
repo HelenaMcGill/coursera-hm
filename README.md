@@ -1,2 +1,2 @@
-# Coursera-hm
-Coursera class uploads
+# coursera-hm
+coursera class uploads
